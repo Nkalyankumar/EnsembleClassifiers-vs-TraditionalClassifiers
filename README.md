@@ -1,6 +1,6 @@
 # EnsembleClassifiers-vs-TraditionalClassifiers
 # Description
-This repo aims to analyze how ensemble classifiers, achieved via combined model aggregation, enhance predictive accuracy in contrast to traditional models. By employing systematic accuracy assessment, comprehensive performance evaluation, and visualization, the study aims to identify the most effective classifier paradigm for optimal predictive outcomes within the diabetes dataset.
+This repo aims to analyze how ensemble classifiers enhance predictive accuracy in contrast to traditional models. By employing systematic accuracy assessment, comprehensive performance evaluation, and visualization, the study aims to identify the most effective classifier paradigm for optimal predictive outcomes within the diabetes dataset.
 
 
 # Observed Accuracies
